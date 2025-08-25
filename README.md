@@ -3,7 +3,7 @@
 ## Total Points: 20
 
 * **Posted on 2025-08-25**
-* **Due on 2025-09-20 11:59 PM**
+* **Due on 2025-09-20 11:59 PM** (No extension will be granted)
 
 ## INSTRUCTIONS
 All problems must be solved using C++ and compile/execute correctly on the Rigel cluster. You may test and debug on your local machine, but the final evaluation will be done on Rigel.
