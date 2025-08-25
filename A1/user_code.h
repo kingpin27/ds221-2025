@@ -40,9 +40,9 @@ vector<int> question_two(
 /* 
 Complete this function
 */
-int question_three(
+long long question_three(
     const vector<vector<int>>& edges,
-    const vector<int>& boster_cities
+    const vector<int>& metro_cities
 ) {
     // TODO: Implement function
 }
