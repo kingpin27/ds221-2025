@@ -40,6 +40,32 @@ We will separately share a feedback form on Copilot to be filled *after the dead
 **Since the use of Copilot is allowed, please make sure to implement the most efficient algorithm to solve each question.**
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+## Report Instructions
+Your report should include at least the following sections (you may add more if needed):
+- Solution Approach
+  - A clear explanation of the algorithm(s) used to solve the problem.
+  - Include step-by-step reasoning behind the chosen method.
+  - Provide diagrams or examples where helpful.
+- Time and Space Complexity Analysis
+  - Analyze best case, worst case, and average case scenarios.
+  - Provide both theoretical analysis and practical justification.
+- Experimental Setup
+  - Describe the setups and different variables you choose for experiments with reasoning
+- Empirical Observations
+  - Report time taken and memory usage of your algorithm based on experimental runs.
+  - Present results in tabular or graphical format for clarity.
+  - Compare empirical results with theoretical expectations.
+  - Discuss scalability (how the algorithm performs as input size increases).
+  - Detailed Analysis with Different Algorithmic Approaches if more than one tried
+    - Provide time and space complexity for each approach.
+    - Justify why you chose the final implementation over the alternatives.
+- Additional Insights (Optional but Recommended)
+  - For example: Mention possible optimizations and trade-offs.
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
