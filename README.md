@@ -6,9 +6,9 @@
 * **Due on 2025-09-20 11:59 PM** (No extension will be granted)
 
 ## INSTRUCTIONS
-All problems must be solved using C++ and compile/execute correctly on the Rigel cluster. You may test and debug on your local machine, but the final evaluation will be done on Rigel.
+All problems must be solved using C++ and compile/execute correctly on the teaching cluster. You may test and debug on your local machine, but the final evaluation will be done on the cluster. 
 
-All performance numbers given in your report should be on Rigel compute nodes. Profiling experiments should be run during your assigned timeslot to avoid performance interference. We should be able to reproduce your performance results.
+All performance numbers given in your report should be on compute nodes of the teaching cluster. Profiling experiments should be run during your assigned timeslot to avoid performance interference. We should be able to reproduce your performance results.
 
 You are required to actively use Copilot to solve the programming part of the problem, to generate the solution code, and to test code. You are responsible for checking the accuracy of the code, including edge cases.
 
