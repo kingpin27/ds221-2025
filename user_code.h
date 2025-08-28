@@ -17,6 +17,8 @@ Complete this function
 
 vector<vector<int>> question_one(const vector<vector<int>>& parcels) {
     // TODO: Implement function
+    vector<vector<int>> ans;
+    return ans;
 }
 
 
@@ -32,6 +34,8 @@ vector<int> question_two(
     const vector<vector<int>>& query
 ) {
     // TODO: Implement function
+    vector<int> ans;
+    return ans;
 }
 
 
@@ -45,6 +49,7 @@ long long question_three(
     const vector<int>& metro_cities
 ) {
     // TODO: Implement function
+    return 0;
 }
 
 
